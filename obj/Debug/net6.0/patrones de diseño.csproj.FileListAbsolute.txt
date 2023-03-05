@@ -1,0 +1,30 @@
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\bin\Debug\net6.0\patrones de diseño.exe
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\bin\Debug\net6.0\patrones de diseño.deps.json
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\bin\Debug\net6.0\patrones de diseño.runtimeconfig.json
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\bin\Debug\net6.0\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\bin\Debug\net6.0\patrones de diseño.pdb
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.csproj.AssemblyReference.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.AssemblyInfoInputs.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.AssemblyInfo.cs
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.csproj.CoreCompileInputs.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\refint\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.pdb
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\patrones de diseño.genruntimeconfig.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\obj\Debug\net6.0\ref\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\bin\Debug\net6.0\patrones de diseño.exe
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\bin\Debug\net6.0\patrones de diseño.deps.json
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\bin\Debug\net6.0\patrones de diseño.runtimeconfig.json
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\bin\Debug\net6.0\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\bin\Debug\net6.0\patrones de diseño.pdb
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.csproj.AssemblyReference.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.AssemblyInfoInputs.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.AssemblyInfo.cs
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.csproj.CoreCompileInputs.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\refint\patrones de diseño.dll
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.pdb
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\patrones de diseño.genruntimeconfig.cache
+C:\Users\fer_b\OneDrive\Escritorio\patrones de diseño\Patrones de Diseño\obj\Debug\net6.0\ref\patrones de diseño.dll
