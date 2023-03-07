@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fer_b\\OneDrive\\Escritorio\\patrones de diseño\\Patrones de Diseño\\patrones de diseño.csproj",
+      "projectUniqueName": "C:\\Users\\fer_b\\OneDrive\\Escritorio\\Patrones_De_Diseño\\Patrones_de_Disenio\\patrones de diseño.csproj",
       "projectName": "patrones de diseño",
-      "projectPath": "C:\\Users\\fer_b\\OneDrive\\Escritorio\\patrones de diseño\\Patrones de Diseño\\patrones de diseño.csproj",
+      "projectPath": "C:\\Users\\fer_b\\OneDrive\\Escritorio\\Patrones_De_Diseño\\Patrones_de_Disenio\\patrones de diseño.csproj",
       "packagesPath": "C:\\Users\\fer_b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fer_b\\OneDrive\\Escritorio\\patrones de diseño\\Patrones de Diseño\\obj\\",
+      "outputPath": "C:\\Users\\fer_b\\OneDrive\\Escritorio\\Patrones_De_Diseño\\Patrones_de_Disenio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
